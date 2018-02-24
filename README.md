@@ -1,7 +1,7 @@
 # GWGpractice
 GWG practice repo to get experience with GIthub
 <h2>Instructions:</h2>
-Hi everyone from GWG. Your first mission is to merge your information into the README.md file.
+Hi everyone from GWG. Your first mission is to find the README.md file and enter your information into the README.md file.
 Please answer the following questions:
 <ul>
   <li>name</li>
