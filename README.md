@@ -161,6 +161,7 @@ Contributors in this group will work with the wireframe and layout design team t
 Name         | Disc Forum @ | Slack @ | Link (optional)
 -----        | -----        | -----   | -----
 (your name)  | (your @)     | your @  | optional link
+Tyler Van Schaick  | tylervucf   | tyler-vs  | [github/tyler-vs](https://github.com/tyler-vs)
 
 
 ### HTML refactoring and optimization
