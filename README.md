@@ -141,6 +141,7 @@ Name         | Disc Forum @ | Slack @ | Link (optional)
 
 ### Teams
 * [Wireframe and layout design](#wireframe-and-layout-design)
+* [index.html](#index.html)
 *  [HTML refactoring and optimization](#html-refactoring-and-optimization)
 *  [CSS refactoring and optimization](#css-refactoring-and-optimization)
 * [JavaScript refactoring and optimization](#javascript-refactoring-and-optimization)
