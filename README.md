@@ -160,7 +160,7 @@ Contributors in this group will work with the wireframe and layout design team t
 
 Name         | Disc Forum @ | Slack @ | Link (optional)
 -----        | -----        | -----   | -----
-(your name)  | (your @)     | your @  | optional link
+Becky Boyce  | beckyboyce   | beckyboyce  | [github/beckybair](https://github.com/beckybair/GWGpractice)
 
 
 ### HTML refactoring and optimization
