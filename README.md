@@ -141,6 +141,7 @@ Name         | Disc Forum @ | Slack @ | Link (optional)
 
 ### Teams
 * [Wireframe and layout design](#wireframe-and-layout-design)
+* [Initial HTML Development](#initial-html-development)
 *  [HTML refactoring and optimization](#html-refactoring-and-optimization)
 *  [CSS refactoring and optimization](#css-refactoring-and-optimization)
 * [JavaScript refactoring and optimization](#javascript-refactoring-and-optimization)
@@ -155,12 +156,12 @@ Name         | Disc Forum @ | Slack @ | Link (optional)
 -----        | -----        | -----   | -----
 (your name)  | (your @)     | your @  | optional link
 
-### index.html
+### Initial HTML Development
 Contributors in this group will work with the wireframe and layout design team to create the initial *index.html* file.
 
 Name         | Disc Forum @ | Slack @ | Link (optional)
 -----        | -----        | -----   | -----
-(your name)  | (your @)     | your @  | optional link
+Tyler	     | tylervucf    | tyler-vs | [github/tyler-vs](https://github.com/tyler-vs)
 
 
 ### HTML refactoring and optimization
